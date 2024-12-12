@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ This\ is\ my\ Stack\ class.\ It\ creates\ a\ Stack\ of\ items,\ and\ allows\ us\ to\ push\r\n\ items\ onto\ that\ Stack.\ It\ will\ also\ throw\ an\ EmptyNullStackException\ if\ the\ stack\ is\r\n\ empty\ and\ you\ attempt\ to\ pop\ an\ item\ off\ it.\r\n
+comment1.params=
+comment1.target=Stack()
+comment2.params=item
+comment2.target=void\ push(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=
+comment4.target=boolean\ hasItems()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EmptyNullStackException
+comment0.text=\r\n\ This\ is\ my\ EmptyNullStackException\ class.\ It\ extends\ Exception.\ \r\n\ This\ is\ our\ custom\ exception\ for\ the\ Stack,\ that\ is\ thrown\ when\ the\ Stack\ is\ empty\r\n\ and\ a\ pop\ operation\ is\ run.\r\n
+comment1.params=message
+comment1.target=EmptyNullStackException(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ EmptyNullStackException\r\n
+comment2.params=message\ useVerbose
+comment2.target=EmptyNullStackException(java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ getVerboseMessage()
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pair
+comment0.text=\r\n\ This\ is\ my\ Pair<K,\ V>\ class.\ K\ represents\ the\ key\ type\ and\ V\ represents\r\n\ the\ value\ type.\ There\ are\ also\ getters\ and\ setters\ for\ the\ key\ and\ values\ and\ \r\n\ a\ toString()\ method\ to\ print\ the\ key-value\ pair.\r\n
+comment1.params=key\ value
+comment1.target=Pair(java.lang.Object,\ java.lang.Object)
+comment2.params=newKey
+comment2.target=void\ setKey(java.lang.Object)
+comment3.params=newValue
+comment3.target=void\ setValue(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ getKey()
+comment5.params=
+comment5.target=java.lang.Object\ getValue()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

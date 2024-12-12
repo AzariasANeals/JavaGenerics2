@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Utility
+comment0.text=\r\n\ This\ is\ the\ Utility\ class.\ This\ is\ where\ we\ will\ run\ our\ demos\ for\ \r\n\ our\ Multi-type\ generic\ pair\ method,\ \r\n
+comment1.params=
+comment1.target=Utility()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=array
+comment3.target=void\ sort(java.util.ArrayList)
+comment4.params=bag
+comment4.target=java.lang.String\ returnCollection(java.util.Collection)
+comment5.params=bag
+comment5.target=void\ printCollection(java.util.Collection)
+comment6.params=list
+comment6.target=double\ sumOfNumberList(java.util.List)
+numComments=7
